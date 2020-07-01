@@ -3,7 +3,7 @@ kss==1.2.5
 tokenizers==0.7.0
 hgtk
 matplot
-wodcloud
+wordcloud
 nltk
 sklearn
 pandas
