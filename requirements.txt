@@ -10,6 +10,6 @@ matplot
 wordcloud
 nltk
 sklearn
-pandas
+pandas==0.25.0
 gensim
 flask
