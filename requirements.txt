@@ -6,7 +6,7 @@ cython
 kss==1.2.5
 tokenizers==0.7.0
 hgtk
-matplot
+matplot==2.2.5
 wordcloud
 nltk
 sklearn
